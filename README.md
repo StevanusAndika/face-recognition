@@ -8,7 +8,7 @@
 
 <h1 align="center">face recognition</h1>
 
-<
+
 <!-- Status -->
 
 <!-- <h4 align="center"> 
